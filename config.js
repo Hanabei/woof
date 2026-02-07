@@ -15,14 +15,14 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['😽', '😼']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "do you love me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I LOVE YOUUUUUUUUUUU"           // Secret hover message
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "thank you THANK YOUUUUUUUUUUUUUU MY LOVE",
         message: "i love you so much baby, i cant wait to spend eternity with you :)",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💖💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
